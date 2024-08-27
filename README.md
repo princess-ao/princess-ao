@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @princess-ao
-- 👀 I’m interested in Cybersecurity
+- 👋 Hi, I’m @princess
+- 👀 I’m interested in Data Analytics
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
