@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @princess
+- 👋 Hi, I’m @princess-ao
 - 👀 I’m interested in Data Analytics
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ...linkedin! 
 
 <!---
 princess-ao/princess-ao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
