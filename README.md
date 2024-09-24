@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @princess-ao
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Python & SQL
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on portfolio projects
 - 📫 How to reach me ...linkedin! https://www.linkedin.com/in/princessowusu
 
 <!---
